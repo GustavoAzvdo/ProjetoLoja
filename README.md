@@ -1,5 +1,7 @@
 # Projeto da Loja (Mundão Traiado)
-  
+
+DESCRIÇÃO DO PROJETO
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Projeto com o propósito de criar um site destinado a uma loja de artigos country, pensando na experiência de compra do usuário e no conhecimento de produtos que esse mundo abrange.
   
   Não sera apenas um site de venda, mas também um site que transmitirá informações sobre o que ela vende. Esse mundo é muito recheado de curiosidades e ele contará um pouco da história de cada produto
@@ -14,9 +16,12 @@ Esse trabalho será dividido em alguns passos, dentre eles:
   - Documentação, fontes de consulta e inspirações;
   - O nome da "loja", saber o publico alvo para o site, o que o usuário vai conseguir ao acessar ao site(sendo informações desse mundo ou do produto) 
   
-Ao longo desse projeto, será pesquisado outras lojas concorrentes para analisar o oque elas fizeram e implementar algo melhor na loja/site Mundão Traiado
+REFERÊNCIAS  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Abaixo citarei os pontos positivos(+) e negativos(-) dos sites de inspiração
+  Ao longo desse projeto, será pesquisado outras lojas concorrentes para analisar o oque elas fizeram e implementar algo melhor na loja/site Mundão Traiado
+
+  Abaixo citarei os pontos positivos(+) e negativos(-) dos sites de inspiração
 Fontes de inspiração:
 *Ao longo do projeto terá mais sites de inspirações e de consulta
 
