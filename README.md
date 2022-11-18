@@ -40,3 +40,10 @@ Fontes de inspiração:
 -https://www.arenacountryechapora.com.br/
 + = Boas cores, boa fonte escolhida
 - = Em certas partes tem muita informação na tela do cliente
+
+SITES PARECIDOS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 - https://wantedind.com/
+2 - https://www.mundaotraiado.com/
+3 - https://www.armazemcountry.com.br/
